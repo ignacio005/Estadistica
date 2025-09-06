@@ -1,25 +1,3 @@
-"ID" "class" "gbef"
-"1" "Preop" 22
-"1" "Postop" 63.5
-"2" "Preop" 63.3
-"2" "Postop" 91.5
-"3" "Preop" 96
-"3" "Postop" 59
-"4" "Preop" 9.2
-"4" "Postop" 37.8
-"5" "Preop" 3.1
-"5" "Postop" 10.1
-"6" "Preop" 50
-"6" "Postop" 19.6
-"7" "Preop" 33
-"7" "Postop" 41
-"8" "Preop" 69
-"8" "Postop" 87.8
-"9" "Preop" 64
-"9" "Postop" 86
-"10" "Preop" 18.8
-"10" "Postop" 55
-"11" "Preop" 0
-"11" "Postop" 88
-"12" "Preop" 34
-"12" "Postop" 40
+version https://git-lfs.github.com/spec/v1
+oid sha256:889c90d52f9738d5963b99b15c5ea6df0697268bd927fa655f7e1778b9ff307d
+size 415
